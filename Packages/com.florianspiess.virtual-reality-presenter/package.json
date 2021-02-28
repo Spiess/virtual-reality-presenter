@@ -13,5 +13,8 @@
     "virtual",
     "reality",
     "presentation"
-  ]
+  ],
+  "dependencies": {
+    "com.unity.inputsystem": "1.0.0"
+  }
 }

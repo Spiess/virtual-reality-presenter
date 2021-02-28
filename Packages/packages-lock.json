@@ -4,7 +4,9 @@
       "version": "file:com.florianspiess.virtual-reality-presenter",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.unity.inputsystem": "1.0.0"
+      }
     },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
@@ -37,8 +39,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.0.0",
-      "depth": 1,
+      "version": "1.0.2",
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
