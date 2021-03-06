@@ -3328,7 +3328,7 @@ PrefabInstance:
     - target: {fileID: 2199106662966518581, guid: 96d7c1ee11b33ca478515a886c10e941,
         type: 3}
       propertyPath: slideDirectoryPath
-      value: C:\Users\Florian\Downloads\TestSlides
+      value: Slides
       objectReference: {fileID: 0}
     - target: {fileID: 2199106662966518602, guid: 96d7c1ee11b33ca478515a886c10e941,
         type: 3}
