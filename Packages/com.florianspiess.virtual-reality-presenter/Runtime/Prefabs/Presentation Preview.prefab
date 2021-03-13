@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3716597843620625568}
   - component: {fileID: 3716597843620625570}
   - component: {fileID: 3716597843620625575}
-  m_Layer: 8
+  m_Layer: 30
   m_Name: Presentation Preview
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -134,7 +134,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3716597843839281592}
-  m_Layer: 8
+  m_Layer: 30
   m_Name: Sliding Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -172,7 +172,7 @@ GameObject:
   - component: {fileID: 3716597843918696488}
   - component: {fileID: 3716597843918696490}
   - component: {fileID: 3716597843918696489}
-  m_Layer: 8
+  m_Layer: 30
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -247,7 +247,7 @@ GameObject:
   - component: {fileID: 3716597844176218900}
   - component: {fileID: 3716597844176219115}
   - component: {fileID: 3716597844176219114}
-  m_Layer: 8
+  m_Layer: 30
   m_Name: Viewport
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -335,7 +335,7 @@ GameObject:
   - component: {fileID: 3716597844383963757}
   - component: {fileID: 3716597844383963758}
   - component: {fileID: 3716597844383963759}
-  m_Layer: 8
+  m_Layer: 30
   m_Name: Content
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   - component: {fileID: 3716597844890546987}
   - component: {fileID: 3716597844890546986}
   - component: {fileID: 3716597844890546985}
-  m_Layer: 8
+  m_Layer: 30
   m_Name: Scrollbar Vertical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -519,7 +519,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 3716597843918696488}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.9999998
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -535,7 +535,7 @@ GameObject:
   - component: {fileID: 3716597844966627693}
   - component: {fileID: 3716597844966627695}
   - component: {fileID: 3716597844966627694}
-  m_Layer: 8
+  m_Layer: 30
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -607,7 +607,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3716597845107127694}
-  m_Layer: 8
+  m_Layer: 30
   m_Name: Sliding Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -646,7 +646,7 @@ GameObject:
   - component: {fileID: 3716597845107866224}
   - component: {fileID: 3716597845107866231}
   - component: {fileID: 3716597845107866230}
-  m_Layer: 8
+  m_Layer: 30
   m_Name: Scrollbar Horizontal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
