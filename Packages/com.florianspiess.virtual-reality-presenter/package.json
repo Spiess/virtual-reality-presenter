@@ -1,6 +1,6 @@
 {
   "name": "com.florianspiess.virtual-reality-presenter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "displayName": "Virtual Reality Presenter",
   "description": "Tools for presentations in virtual reality.",
   "unity": "2019.4",
